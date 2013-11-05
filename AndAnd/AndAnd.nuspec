@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AndAnd</id>
+    <version>1.0.0.0</version>
+    <title>AndAnd</title>
+    <authors>Peter Graham</authors>
+    <owners>Peter Graham</owners>
+    <licenseUrl>https://github.com/6/AndAnd.Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/6/AndAnd.Net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Maybe monad in C#. Port of the Ruby andand gem.</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>andand maybe monad</tags>
+  </metadata>
+</package>
